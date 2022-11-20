@@ -1,6 +1,6 @@
 #!/bin/bash
 #title           :performance-monitor.sh
-#description     :This script prompts the user with the option to terminate a prosses once it passes a set threshold
+#description     :This script prompts the user with the option to terminate a process once it passes a set threshold
 #author          :Nasir York
 #date            :08-11-2022
 #version         :1.2.3
